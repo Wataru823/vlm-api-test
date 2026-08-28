@@ -1,4 +1,4 @@
-# keio_azure_test
+# vlm-api-test
 
 Azure AI Foundry経由のGPT-5.6、およびGemini 3.1 Proの動作確認用スクリプト集です。
 テキスト入力・画像入力の両方に対応しています。
